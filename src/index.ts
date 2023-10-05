@@ -7,7 +7,6 @@ import "../src/components/scissors";
 // import "../../../mod4/desafio-final/src/components/rock";
 // import "../../../mod4/desafio-final/src/components/paper";
 // import "../../../mod4/desafio-final/src/components/scissors";
-import "../../../mod4/desafio-final/src/components/timer";
 import "./components/result";
 import "./components/score";
 import "../src/components/label";
