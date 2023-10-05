@@ -1,9 +1,12 @@
 import "../src/components/text";
 import "../src/components/button";
 import "../src/components/back-button";
-import "../../../mod4/desafio-final/src/components/rock";
-import "../../../mod4/desafio-final/src/components/paper";
-import "../../../mod4/desafio-final/src/components/scissors";
+import "../src/components/rock";
+import "../src/components/paper";
+import "../src/components/scissors";
+// import "../../../mod4/desafio-final/src/components/rock";
+// import "../../../mod4/desafio-final/src/components/paper";
+// import "../../../mod4/desafio-final/src/components/scissors";
 import "../../../mod4/desafio-final/src/components/timer";
 import "./components/result";
 import "./components/score";
