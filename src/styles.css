@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-image: url("./images/fondo.png");
+    background-repeat: repeat;
+    font-family: 'Odibee Sans', cursive;
+}
+
+.arriba {
+    transition: all .5s;
+    transform:translateY(-60px);
+}
+
+.abajo {
+    transition: all .5s;
+    transform:translateY(30px);
+    opacity: 0.5;
+}

@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "desafio-ppt",
+    "private_key_id": "728af9173da043f97f683e6bd15122da748f6089",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOtGSRIuZwQKYD\ndQvnHwPcGJ+V0Do55PgfVhbDQJbnY8CmdrkiYecFLgLxRhOgKfrykdyaya4mKL37\n/KZypuQx8UgU0hejed12WL5RXcaE3EXFYMxAXIFvf1EJI7mx/6rMTs0uipOTyN+j\nj0LnCvSRthDx55FJMjqEEis7r6t2dAxjsw5JYpNIfmXQViChVsWBs8EndbDJPGH2\n4HYlqGVdR1XlBbR0ZrV5PabT9fQJTHg1tGuT2XFi3+HN/usHNT5Y5Kqw6N6LR1ne\nEZQcawhpy1W+LGChgpeM65lwkiwXUXS4F4irV8iaZGmiE5m4u6KloacSAJc7TqXa\n23vLyXE5AgMBAAECggEABHdRVPF0GSjMbXax8yRwaOj/SbVeDLItyj+J7l4O5KD7\nIJ2gEmYbH7mGxr/E3MkLawJLyexhnuFyeWdUEVYZyBp2fDyt1hJj/pKcShXEnEpG\nF6WnxBw7j7UogxIKiRYFErUBKehEmATXECmgQG20KxHL++4M7Y/wQ7pAxOFeywhc\n4YiLmv9PeXqhNyoGo8ayvcS2xTLpI999dL71jF5kQ7b1aM0NBCKN371Tv+8sIOos\nvQ7712c/2FPnGFZlrv09qRFdzkTXPn/eBNBqCyFFl5YntrHiW5UJnn9OoxCEW0TK\nuIOf9O2vR1u7AdJcn1Jsjs91a+fkgkHvhj3ua6dhoQKBgQD7M2H87SVpk7Pk/9fe\nALmFDzUJma1yM1QPpymeW1+Jht0yeOhY58pv0TZyAmKlmcQyMVSYxwJsUb8WIE1n\nSO1ZHJRnQAZOM6SDC59QS9oGzfw4H9CyIY/T1gMRfxGQ84pXySlueM7kFQJ1sgB0\ni0f/f14adclPFtYPkrm3XjssvwKBgQDSp2F+pAczsBJVGat+Uv5sedM60ubq6yB8\n73VX6WQ5d9ISHB8y1nNpZl1a6xS9yYLplzoOZCVB451Ivg5v95rxHKuV8pN3Jp8h\nL0trq88RXPCB/BSfDFn1smbhL9jvyeXZcWYP+RuoT1MP3E1HlcJ74B0t/ZsA4jig\nX7uuckrIBwKBgQDFA5+uhy/4hedpi176twbJ3Qtz5BusnaUoQarakD911VhW5Y0V\nbXXQDP3unQBRcS/3TclTqYG1AsgjymHqx7+fTFL4R7aqTsaQIOVqTJNLEvLl8c30\nZ24uboMpjcdxMBEomJTuF8HsEK5FML46qaJmOLbNeePRK8/nluQhdL5kcQKBgQDA\nfW7beCuUkbnOxawtvMz8dr4MLJgR5lVDlNTXRk/tK45sOgJQRCImGAIKiHHlkvPr\nW+MTL3PUJ5eb1v/+VHXjCV3JoWYbJNGYU01J0C9hIFotjRmS1IiHuUPFViGXzBga\ngELRKcKaJBI0lgyP80tKQtqnIey3+//enFw15f5rlQKBgDQvj483K10oNghsWElR\nhT0SwcDSzpyiOZG2pLo7wiRLCDLg2jLLQ7+InV3ot06pq5qFhcDdcP+G1GcFCDkq\nVY1DYtzykqmpmXJSmxsSjdsdX5U3fz6vFDh4QQrjYcmePyEHkDrtjPO45wMbW5S0\n83zO6nOUCP4F6pqjPgx14uHO\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-wqc79@desafio-ppt.iam.gserviceaccount.com",
+    "client_id": "110359273709646767171",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wqc79%40desafio-ppt.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
